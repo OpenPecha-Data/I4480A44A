@@ -5,11 +5,12 @@ source_metadata:
   title: རྗེ་བཙུན་མི་ལ་རས་པའི་རྣམ་ཐར།
   author: ''
   volumes:
-    7355bb1467fd4fb0aa230d863a0197f0:
+    92ca72378a8f41b4a5511c7646ca40b3:
       image_group_id: I1KG16862
-      title: ''
+      title: Volume 1 of rje btsun mi la ras pa'i rnam thar
       volume_number: 1
       total_pages: 454
+      base_file: v001.txt
 ebook_metadata:
   title: རྗེ་བཙུན་མི་ལ་རས་པའི་རྣམ་ཐར།
   author: ''
